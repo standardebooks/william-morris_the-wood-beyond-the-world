@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-morris/the-wood-beyond-the-world</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-01-13T23:00:00Z</dc:date>
+		<meta property="dcterms:modified">2017-01-13T23:00:00Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -22,10 +22,11 @@
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3055</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;William Morris is famous in no small part for his contributions to defining the genre of modern fantasy literature, and &lt;i&gt;The Wood Beyond the World&lt;/i&gt; is a classic example of that influence.  Written in a purposefully-antiquated prose style reminiscent of Sir Thomas Malory or other aged fairy tales, &lt;i&gt;The Wood Beyond the World&lt;/i&gt; can be difficult for some readers; but those who follow through will enjoy a charming and influential series of picaresque adventures.&lt;/p&gt;
+			&lt;p&gt;The book follows Golden Walter, a man leaving home who finds himself swept away to an enchanted land.  He encounters a fair maiden who is trapped by an enchantress and her consort.  Walter must, like all good heroes, save the maiden and see if they can make it to happily ever after.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
