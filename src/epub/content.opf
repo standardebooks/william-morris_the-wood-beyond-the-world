@@ -26,19 +26,18 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Wood Beyond the World</dc:title>
 		<meta property="file-as" refines="#title">Wood Beyond the World, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3055</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;William Morris is famous in no small part for his contributions to defining the genre of modern fantasy literature, and &lt;i&gt;The Wood Beyond the World&lt;/i&gt; is a classic example of that influence. Written in a purposefully-antiquated prose style reminiscent of Sir Thomas Malory or other aged fairy tales, &lt;i&gt;The Wood Beyond the World&lt;/i&gt; can be difficult for some readers; but those who follow through will enjoy a charming and influential series of picaresque adventures.&lt;/p&gt;
 			&lt;p&gt;The book follows Golden Walter, a man leaving home who finds himself swept away to an enchanted land. He encounters a fair maiden who is trapped by an enchantress and her consort. Walter must, like all good heroes, save the maiden and see if they can make it to happily ever after.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3055</dc:source>
 		<dc:source>https://books.google.com/books?id=GX8PAAAAQAAJ</dc:source>
