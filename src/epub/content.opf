@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:abstract>An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.</dc:abstract>
+		<meta property="schema:abstract">An adventurer comes to an enchanted castle, where he must rescue a fair maiden from the clutches of an enchantress.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt; is famous in no small part for his contributions to defining the genre of modern fantasy literature, and &lt;i&gt;The Wood Beyond the World&lt;/i&gt; is a classic example of that influence. Written in a purposefully antiquated prose style reminiscent of Sir Thomas Malory or other aged fairy tales, &lt;i&gt;The Wood Beyond the World&lt;/i&gt; can be difficult for some readers; but those who follow through will enjoy a charming and influential series of picaresque adventures.&lt;/p&gt;
 			&lt;p&gt;The book follows Golden Walter, a man leaving home who finds himself swept away to an enchanted land. He encounters a fair maiden who is trapped by an enchantress and her consort. Walter must, like all good heroes, save the maiden and see if they can make it to happily ever after.&lt;/p&gt;
